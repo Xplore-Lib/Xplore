@@ -1,7 +1,7 @@
 
 # Xplore
 
-Hi I'm Divinewisdom and I oud love to appreciate you for checking out Xplore, it's really a great pleasure. We are strongly looking forward to having you as a contributor as great community build great product.
+Hi I'm Cedar and I would love to appreciate you for checking out Xplore, it's really a great pleasure. We are strongly looking forward to having you as a contributor as great community build great product.
 
 ## What is Xplore?
 
