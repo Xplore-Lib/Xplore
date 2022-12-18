@@ -1,9 +1,9 @@
 
 # Xplore
 
-Thanks for checking Xplore out. We are strongly looking forward to having you as a contributor as great community build great product.
+Hi I'm Divinewisdom and I oud love to appreciate you for checking out Xplore, it's really a great pleasure. We are strongly looking forward to having you as a contributor as great community build great product.
 
-## What is Xplore
+## What is Xplore?
 
 Xplore is a community driven open source platform to passonate writers and voracious readers to share and discover beautiful works while being actively involed in a community of like minded individuals. Simply put, Xplore is an community driven open source alternative to Wattpad.
 
