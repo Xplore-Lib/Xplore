@@ -25,6 +25,8 @@ It is also a community where writers can reach out to their fellow writers in ti
 We belive that it takes a community to make a difference so we would love to invite you to join our community of developers as we build on this idea and strive to make a difference for the next generation of authors and readers.
 
 ### Join Our Discord
+[![image](https://user-images.githubusercontent.com/64336732/208314204-0e411a0a-c6ad-42a7-b7ed-f3dec1950bcd.png)](https://discord.gg/85JvcHcH2A)
+
 
 ## Contributing
 Feel free to contribute in any way possible, so far its done in the right way any effort would be highly appreciated.
