@@ -14,7 +14,7 @@ We are committed to making Xplore a safe and welcoming space for all people, and
 
 ## Reporting
 
-If you experience or witness discrimination or harassment, or have any other concerns, please report it to the Xplore team immediately. You can reach us at [contact email]. If you are not comfortable speaking with a member of the Xplore team, you can also report the incident to the [name of organization] code of conduct team at [contact email].
+If you experience or witness discrimination or harassment, or have any other concerns, please report it to the Xplore team immediately. You can reach us at readatetech@gmail.com.
 
 We take all reports of discrimination and harassment seriously and will take appropriate action as soon as possible. This may include, but is not limited to, issuing a warning, revoking privileges, or taking further action as deemed necessary by the Xplore team.
 
