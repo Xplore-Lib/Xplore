@@ -36,12 +36,10 @@ Here are some ways you can contribute to Xplore:
 
 ## Code of Conduct
 
-We are committed to creating a welcoming and inclusive community for Xplore. To help ensure that everyone feels welcome and respected, we have adopted a code of conduct. By participating in [Project Name], you agree to abide by the terms of our code of conduct.
+We are committed to creating a welcoming and inclusive community for Xplore. To help ensure that everyone feels welcome and respected, we have adopted a code of conduct. By participating in Xplore, you agree to abide by the terms of our code of conduct.
 
 ## Communication Channels
 
 If you have any questions, suggestions, or feedback about Xplore, we welcome you to reach out to us through any of the following communication channels:
 
-- [Chat room](https://discord.gg/85JvcHcH2A)
-
-## Resources
+- Discord: https://discord.gg/85JvcHcH2A
